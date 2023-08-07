@@ -1,8 +1,9 @@
-Work {
-    color: rgb(56, 182, 51);
-    background-color: darkblue;
-} ;
-vegetables {
-    color: aliceblue;
+.Work {
+    color: chartreuse;
     background-color: black;
-} ;
+}
+
+.fruit {
+    color: beige;
+    background-color: black;
+}
